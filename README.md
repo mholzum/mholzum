@@ -1,16 +1,33 @@
 ## Hi there 👋
 
 <!--
-**mholzum/mholzum** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Mark Holzum
 
-Here are some ideas to get you started:
+Applied AI builder based in Los Angeles. I design and operate multi-agent
+systems — orchestration, agent constitutions, human-in-the-loop gates,
+review consoles, and written incident response.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+### Selected work
+
+**[Mobility Score](https://mobility-score.vercel.app)** — Live self-diagnostic
+web app that returns a personalized "mobility age" from a joint-by-joint
+assessment. Next.js · Anthropic Claude Sonnet · Supabase · Vercel.
+
+**[Field notes: multi-agent company OS](./notes)** — Postmortems,
+architecture writeups, and patterns from a year of running a multi-agent
+system in production. Starts with the July 12 concurrency incident.
+
+### Background
+
+Ten years founding creative-production and wellness ventures before this —
+Feybl (Burbank), AXYZM Productions, Accend. Production credits with
+Cirque du Soleil, Jurassic World Live, Paula Abdul. BA Theatre, Saint Louis
+University (Magna Cum Laude).
+
+### Currently
+
+Open to Forward Deployed Engineer, Applied AI, and AI Solutions Architect
+roles in Los Angeles.
+
+📫 markholzum@gmail.com
 -->
