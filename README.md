@@ -1,6 +1,5 @@
 ## Hi there 👋
 
-<!--
 ## Mark Holzum
 
 Applied AI builder based in Los Angeles. I design and operate multi-agent
@@ -30,4 +29,4 @@ Open to Forward Deployed Engineer, Applied AI, and AI Solutions Architect
 roles in Los Angeles.
 
 📫 markholzum@gmail.com
--->
+
