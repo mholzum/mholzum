@@ -1,5 +1,3 @@
-## Hi there 👋
-
 ## Mark Holzum
 
 Applied AI builder based in Los Angeles. I design and operate multi-agent
