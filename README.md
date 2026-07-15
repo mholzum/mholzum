@@ -12,9 +12,7 @@ review consoles, and written incident response.
 web app that returns a personalized "mobility age" from a joint-by-joint
 assessment. Next.js · Anthropic Claude Sonnet · Supabase · Vercel.
 
-**[Field notes: multi-agent company OS](./notes)** — Postmortems,
-architecture writeups, and patterns from a year of running a multi-agent
-system in production. Starts with the July 12 concurrency incident.
+**[Field notes: multi-agent company OS](https://github.com/mholzum/field-notes)** — Postmortems, architecture writeups, and patterns from a year of running a multi-agent system in production. Starts with the July 12 concurrency incident.
 
 ### Background
 
